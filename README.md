@@ -1,6 +1,14 @@
 # WebDevInternTest
 QuickDesk Web Development Intern Test
 
+Question A(a)
+
+Queue.java, Stack.java
+
+Question A(b)
+
+For writting enqueue and dequeue without using any array methods, the codes for Stack are in LIFOQueue.java while for queue it is the FIFOQueue.java
+
 Question A(c)
 
 I would better improve by class designs by focusing on enforcing low coupling. 
